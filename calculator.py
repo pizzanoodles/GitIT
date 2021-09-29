@@ -1,5 +1,6 @@
 print("Calculator by Jens Jovellano")
 print("*-----------------------------*")
+print("SEPTEMBER 29, 2021")
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 sum = num1 + num2
